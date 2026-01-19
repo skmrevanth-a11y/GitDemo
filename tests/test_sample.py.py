@@ -9,3 +9,13 @@ def test_multiplication():
 
 def test_division():
     assert 4 / 2 == 2
+
+def test_divisin():
+    assert 4 / 2 == 2
+
+def test_diision():
+    assert 4 / 2 == 2
+
+
+def test_divsion():
+    assert 4 / 2 == 2
