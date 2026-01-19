@@ -19,3 +19,10 @@ def test_diision():
 
 def test_divsion():
     assert 4 / 2 == 2
+
+
+
+def test_ivsion():
+    assert 4 / 2 == 2
+
+
